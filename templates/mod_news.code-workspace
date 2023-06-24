@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mod_news",
+			"path": ".."
+		},
+		{
+			"name": "aznews-master",
+			"path": "../../dars13/aznews-master"
+		}
+	],
+	"settings": {}
+}
